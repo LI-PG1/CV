@@ -1,0 +1,7 @@
+* text=auto
+*.tex text eol=crlf
+*.html text eol=crlf
+*.md text eol=crlf
+*.pdf binary
+*.png binary
+*.jpg binary
